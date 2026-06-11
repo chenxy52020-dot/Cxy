@@ -126,7 +126,7 @@ end
 
 LOGO = "喵喵﹗" -- 悬浮窗标题/标志
 -- 悬浮窗背景图（支持高清链接）
-BG_IMG_URL = "https://files.catbox.moe/6tpjwg.jpg"
+BG_IMG_URL = "https://raw.githubusercontent.com/chenxy52020-dot/Cxy/refs/heads/main/IMG_20260610_193640_518.jpg"
 ICON_IMG_URL = "https://cik07-cos.7moor-fs2.com/im/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/2eb6762464136bba/a95d5e85d1444b7ff15a76591abf644c8e910810_raw.gif"  
 CLICK_WEB_URL = "<html><body><video width="
 SCROLL_TEXT = "✨ 欢迎使用喵喵艺术面板！请勿商用，保持低调。最新交流群请点击右侧按钮加入 ✨"
